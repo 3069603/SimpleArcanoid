@@ -1,0 +1,11 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: black; /* Черный фон страницы */
+}
+
+canvas {
+    display: block;
+    margin: 0 auto;
+    border: 1.5px solid white; /* Белая граница */
+}
